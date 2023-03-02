@@ -5,7 +5,7 @@
 **Overview:
 
 A simple Python project to compare how different language models measure semantic
-similarity
+similarity.
 
 ## Contents
 
